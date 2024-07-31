@@ -177,4 +177,4 @@ cards = [
     },
 ]
 
-print(cards[15]["card"])
+#print(cards[15]["card"])
